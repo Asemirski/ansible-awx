@@ -1,0 +1,8 @@
+---
+- name: Check service
+  hosts: all
+  tasks:
+    - name: verify spooler
+      win_service:
+        name: spooler
+        state: started
