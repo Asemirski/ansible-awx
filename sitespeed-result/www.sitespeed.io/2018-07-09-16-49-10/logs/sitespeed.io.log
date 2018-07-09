@@ -1,0 +1,14 @@
+[2018-07-09 16:49:10] INFO: [sitespeedio] Versions OS: linux 4.13.0-41-generic nodejs: v8.11.1 sitespeed.io: 7.2.0 browsertime: 3.2.0 coach: 2.0.5
+[2018-07-09 16:49:11] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.sitespeed.io 3 time(s)
+[2018-07-09 16:49:11] INFO: [root] Testing url https://www.sitespeed.io iteration 1
+[2018-07-09 16:49:25] INFO: [root] BackEndTime: 125 DomInteractiveTime: 158 DomContentLoadedTime: 158 FirstPaint: 262 PageLoadTime: 238
+[2018-07-09 16:49:25] INFO: [root] VisualMetrics FirstVisualChange: 300 SpeedIndex: 300 PerceptualSpeedIndex: 300 LastVisualChange: 300
+[2018-07-09 16:49:25] INFO: [root] Testing url https://www.sitespeed.io iteration 2
+[2018-07-09 16:49:37] INFO: [root] BackEndTime: 82 DomInteractiveTime: 116 DomContentLoadedTime: 116 FirstPaint: 202 PageLoadTime: 201
+[2018-07-09 16:49:37] INFO: [root] VisualMetrics FirstVisualChange: 233 SpeedIndex: 233 PerceptualSpeedIndex: 233 LastVisualChange: 233
+[2018-07-09 16:49:37] INFO: [root] Testing url https://www.sitespeed.io iteration 3
+[2018-07-09 16:49:49] INFO: [root] BackEndTime: 132 DomInteractiveTime: 163 DomContentLoadedTime: 164 FirstPaint: 258 PageLoadTime: 257
+[2018-07-09 16:49:49] INFO: [root] VisualMetrics FirstVisualChange: 300 SpeedIndex: 300 PerceptualSpeedIndex: 300 LastVisualChange: 300
+[2018-07-09 16:49:49] INFO: [root] 9 requests, 129.34 kb, backEndTime: 113ms (±12.76ms), firstPaint: 241ms (±15.81ms), firstVisualChange: 278ms (±18.24ms), DOMContentLoaded: 146ms (±12.33ms), Load: 232ms (±13.42ms), speedIndex: 278 (±18.24), visualComplete85: 278ms (±18.24ms), lastVisualChange: 278ms (±18.24ms), rumSpeedIndex: 241 (±15.81) (3 runs)
+[2018-07-09 16:49:51] INFO: [sitespeedio.plugin.html] HTML stored in /sitespeed.io/sitespeed-result/www.sitespeed.io/2018-07-09-16-49-10
+[2018-07-09 16:49:51] INFO: [sitespeedio] Finished analysing https://www.sitespeed.io
