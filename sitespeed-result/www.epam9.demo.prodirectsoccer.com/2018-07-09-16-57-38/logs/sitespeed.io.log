@@ -1,0 +1,13 @@
+[2018-07-09 16:57:38] INFO: [sitespeedio] Versions OS: linux 4.13.0-41-generic nodejs: v8.11.1 sitespeed.io: 7.2.0 browsertime: 3.2.0 coach: 2.0.5
+[2018-07-09 16:57:39] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.epam9.demo.prodirectsoccer.com 3 time(s)
+[2018-07-09 16:57:39] INFO: [root] Testing url https://www.epam9.demo.prodirectsoccer.com iteration 1
+[2018-07-09 16:57:45] ERROR: [root] UrlLoadError: Failed to load/verify https://www.epam9.demo.prodirectsoccer.com uri:chrome-error://chromewebdata/
+    at SeleniumRunner.loadAndWait (/usr/src/app/node_modules/browsertime/lib/core/seleniumRunner.js:194:15)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-07-09 16:57:45] INFO: [root] Testing url https://www.epam9.demo.prodirectsoccer.com iteration 2
+[2018-07-09 16:57:50] ERROR: [root] UrlLoadError: Failed to load/verify https://www.epam9.demo.prodirectsoccer.com uri:chrome-error://chromewebdata/
+    at SeleniumRunner.loadAndWait (/usr/src/app/node_modules/browsertime/lib/core/seleniumRunner.js:194:15)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+[2018-07-09 16:57:50] INFO: [root] Testing url https://www.epam9.demo.prodirectsoccer.com iteration 3

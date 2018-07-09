@@ -1,0 +1,14 @@
+[2018-07-09 16:58:40] INFO: [sitespeedio] Versions OS: linux 4.13.0-41-generic nodejs: v8.11.1 sitespeed.io: 7.2.0 browsertime: 3.2.0 coach: 2.0.5
+[2018-07-09 16:58:41] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://soccer9.prod-site.projects.epam.com/ 3 time(s)
+[2018-07-09 16:58:41] INFO: [root] Testing url https://soccer9.prod-site.projects.epam.com/ iteration 1
+[2018-07-09 16:59:30] INFO: [root] BackEndTime: 14966 DomInteractiveTime: 16182 DomContentLoadedTime: 16182 FirstPaint: 15700 PageLoadTime: 18892
+[2018-07-09 16:59:30] INFO: [root] VisualMetrics FirstVisualChange: 15733 SpeedIndex: 17503 PerceptualSpeedIndex: 17830 LastVisualChange: 19000
+[2018-07-09 16:59:30] INFO: [root] Testing url https://soccer9.prod-site.projects.epam.com/ iteration 2
+[2018-07-09 17:00:12] INFO: [root] BackEndTime: 14409 DomInteractiveTime: 15969 DomContentLoadedTime: 15969 FirstPaint: 14976 PageLoadTime: 17717
+[2018-07-09 17:00:12] INFO: [root] VisualMetrics FirstVisualChange: 15033 SpeedIndex: 15527 PerceptualSpeedIndex: 16466 LastVisualChange: 17600
+[2018-07-09 17:00:13] INFO: [root] Testing url https://soccer9.prod-site.projects.epam.com/ iteration 3
+[2018-07-09 17:00:58] INFO: [root] BackEndTime: 13747 DomInteractiveTime: 15081 DomContentLoadedTime: 15081 FirstPaint: 14271 PageLoadTime: 17369
+[2018-07-09 17:00:58] INFO: [root] VisualMetrics FirstVisualChange: 14333 SpeedIndex: 16059 PerceptualSpeedIndex: 16180 LastVisualChange: 17467
+[2018-07-09 17:00:59] INFO: [root] 138 requests, 24321.47 kb, backEndTime: 14.37s (±287.68ms), firstPaint: 14.98s (±336.83ms), firstVisualChange: 15.03s (±329.98ms), DOMContentLoaded: 15.74s (±275.29ms), Load: 17.99s (±376.20ms), speedIndex: 16363 (±482.00), visualComplete85: 17.39s (±778.47ms), lastVisualChange: 18.02s (±400.36ms), rumSpeedIndex: 15783 (±427.46) (3 runs)
+[2018-07-09 17:01:01] INFO: [sitespeedio.plugin.html] HTML stored in /sitespeed.io/sitespeed-result/soccer9.prod-site.projects.epam.com/2018-07-09-16-58-40
+[2018-07-09 17:01:01] INFO: [sitespeedio] Finished analysing https://soccer9.prod-site.projects.epam.com/
